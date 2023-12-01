@@ -1,5 +1,6 @@
 source "https://rubygems.org"
 
+gem "rexml"
 gem "jekyll", "~> 3.2.1"
 gem "jekyll-sitemap"
 gem "jekyll-gist"
