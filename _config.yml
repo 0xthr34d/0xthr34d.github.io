@@ -1,7 +1,7 @@
 # Site
-title:              Moon
-bio:                'Minimal, one column jekyll theme.'
-description:        "Moon is a minimal, one column jekyll theme for your blog."
+title:              0xthr34d
+bio:                'Mi sitio web'
+description:        "Este es mi sitio web donde iré publicando mis proyectos relacionados con la ciberseguridad."
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
@@ -40,9 +40,9 @@ sass:
 #email:
 #twitter:            username
 #facebook:           username
-github-url:         0xthr34d
+github-url:         https://github.com/0xthr34d/
 #stackoverflow:     123456/username   from a "http://stackoverflow.com/users/123456/username" link
-#linkedin:          username
+linkedin:          https://www.linkedin.com/in/ismael-coronado-bonillo-452390252/
 #xing:              username
 #instagram:          username
 #lastfm:            username
